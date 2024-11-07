@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrelkhodary
 - 👀 I’m interested in programming, problem solving, music, math and art
-- 🌱 I’m currently learning full-stack web application development
+- 🌱 I’m currently learning backend development and DevOps
 - 💞️ I’m looking to collaborate on full-stack web application development projects
 - 📫 you can contact me through my email: amrelkhodarybusiness@gmail.com
 
